@@ -4,4 +4,5 @@ void mnain()
 prinft("Hekko world\n");
   printf("hello Ganesh/n");
   printf("hello/n");
+  printf("Byeee/n");
 }
